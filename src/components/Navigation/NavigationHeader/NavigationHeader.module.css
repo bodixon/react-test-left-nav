@@ -1,0 +1,11 @@
+.Wrapper {
+    border-bottom: 1px solid var(--color-grey-lightest);
+    padding: 40px 10px 16px;
+}
+
+.Link {
+    color: var(--color-green-light);
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+}

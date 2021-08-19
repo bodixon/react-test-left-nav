@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+* {
+  font-family: "Proxima Nova Rg";
+}
+
+a {
+  text-decoration: none;
+}
+
+:root {
+  --color-white: #FFF;
+
+  --color-grey-lightest: #EFF1F7;
+
+  --color-blue-darkest: #2A419D;
+  --color-blue: #2F54E9;
+  --color-blue-light: #9CAADF;
+  --color-blue-lightest: #F9FBFF;
+
+  --color-green-light: #BFCB9D;
+}

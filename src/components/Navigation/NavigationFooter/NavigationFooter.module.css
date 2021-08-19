@@ -1,0 +1,4 @@
+.Wrapper {
+    border-top: 1px solid var(--color-grey-lightest);
+    padding: 25px 15px;
+}

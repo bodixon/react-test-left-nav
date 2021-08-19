@@ -1,0 +1,8 @@
+.Wrapper {
+    align-items: center;
+    display: flex;
+}
+
+.Title {
+    margin-left: 20px;
+}
